@@ -1,0 +1,4 @@
+训练脚本在script文件夹中
+notebook中启动训练任务
+需要实现上传训练数据到S3上，并且启动程序中设定好训练及测试数据的S3路径
+notebook使用的是tensorflow_p36的kernel
